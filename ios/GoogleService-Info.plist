@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>798403524691-lfe3fead1qjckl2t1rumeufrelbk5t0h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.798403524691-lfe3fead1qjckl2t1rumeufrelbk5t0h</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>798403524691-mlsqnpi940b258mlrqodt7ag9u253fne.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCb0sryOa3Xdbhw7nk44n7mRCoV7IGgqPw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>798403524691</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.LiftLogic.app</string>
+	<key>PROJECT_ID</key>
+	<string>liftlogic-7b409</string>
+	<key>STORAGE_BUCKET</key>
+	<string>liftlogic-7b409.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:798403524691:ios:b36502a0494e0b9309aea6</string>
+</dict>
+</plist>

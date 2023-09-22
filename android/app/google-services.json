@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "798403524691",
+    "project_id": "liftlogic-7b409",
+    "storage_bucket": "liftlogic-7b409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798403524691:android:856213bc9307881f09aea6",
+        "android_client_info": {
+          "package_name": "com.LiftLogic.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798403524691-mlsqnpi940b258mlrqodt7ag9u253fne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LiftLogic.app",
+            "certificate_hash": "2d16ac442798399088138d73a0c46db4349154b5"
+          }
+        },
+        {
+          "client_id": "798403524691-p5vmdctrl4t0of6vji3evqqc7di68jkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOLkv_O1gPWD6BgCc_cxGEk3nLKjkTO8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798403524691-p5vmdctrl4t0of6vji3evqqc7di68jkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
