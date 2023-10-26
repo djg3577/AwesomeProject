@@ -13,7 +13,7 @@ export const GlobalDataProvider = ({ children }) => {
   const [globalCalories, setGlobalCalories] = useState(0);
   const [globalCarbs, setGlobalCarbs] = useState(0); 
 
-  const addFoodToGlobals = (protein, fat, carbs, calories) => {
+  const addFoodToGlobals = (protein: number, fat: number, carbs: number, calories: number) => {
     setGlobalProtein(globalProtein + protein);
     setGlobalFat(globalFat + fat);
     setGlobalCarbs(globalCarbs + carbs);

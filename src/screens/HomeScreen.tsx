@@ -82,6 +82,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#ccc',
     width:40,
     justifyContent: 'flex-end',
+    marginLeft: 40
   },
   calorieProgressBarContainer: {
     height: '100%',
